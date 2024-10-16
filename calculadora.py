@@ -1,3 +1,5 @@
+!pip install kivymd
+
 from kivy.lang import Builder
 
 from kivy.uix.boxlayout import BoxLayout
